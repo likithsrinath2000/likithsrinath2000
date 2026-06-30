@@ -28,23 +28,23 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<!--   <img height="160em" alt="readme-stats" src="https://github-readme-stats.vercel.app/api/?username=Likith2000&count_private=true&theme=tokyonight&showicons=true"/> -->
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Likith2000&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Likith2000&theme=dark"/>
-  <img height="160em" alt="readme-stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Likith2000&layout=compact&langs_count=8&theme=tokyonight"/>
+<!--   <img height="160em" alt="readme-stats" src="https://github-readme-stats.vercel.app/api/?username=likithsrinath2000&count_private=true&theme=tokyonight&showicons=true"/> -->
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=likithsrinath2000&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=likithsrinath2000&theme=dark"/>
+  <img height="160em" alt="readme-stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=likithsrinath2000&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <a href="mailto:likithsrinath2000@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-Mail-black?style=flat&logo=gmail&labelColor=black"></a>
-  <a href="https://www.linkedin.com/in/likithsrinath/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn&labelColor=blue"></a>
-  <a href="https://t.me/likith2000"><img alt="telegram" src="https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram"></a>
+  <a href="https://www.linkedin.com/in/likithsrinath2000/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn&labelColor=blue"></a>
+  <a href="https://t.me/likithsrinath2000"><img alt="telegram" src="https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram"></a>
 </p>
               
 
 <!--
-**Likith2000/Likith2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**likithsrinath2000/likithsrinath2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
